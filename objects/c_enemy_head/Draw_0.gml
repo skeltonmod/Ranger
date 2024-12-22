@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_player_head, createFrameFrmAngle(8, dir), x + offset_x, (y - 5) + offset_y, 1, 1, 0, c_white, 255);

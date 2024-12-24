@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"update",
+  "%Name":"use_tdmc",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"update",
+  "name":"use_tdmc",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

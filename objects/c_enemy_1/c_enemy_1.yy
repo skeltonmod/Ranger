@@ -1,17 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"c_enemy_body",
+  "%Name":"c_enemy_1",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"c_enemy_body",
+  "name":"c_enemy_1",
   "overriddenProperties":[],
   "parent":{
-    "name":"enemy_1",
-    "path":"folders/Objects/npc/enemy_1.yy",
+    "name":"npc",
+    "path":"folders/Objects/npc.yy",
   },
   "parentObjectId":{
     "name":"p_enemy",

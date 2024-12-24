@@ -13,7 +13,6 @@ bobbing_speed = 0.1;
 // Initialize a variable to keep track of time
 bobbing_time = 0;
 
-motion = new Vector2();
 max_spd = 2.0;
 
 dir = 0;

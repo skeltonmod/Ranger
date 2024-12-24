@@ -1,21 +1,21 @@
 {
   "$GMObject":"",
-  "%Name":"c_enemy_hands",
+  "%Name":"c_player",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"c_enemy_hands",
+  "name":"c_player",
   "overriddenProperties":[],
   "parent":{
-    "name":"enemy_1",
-    "path":"folders/Objects/npc/enemy_1.yy",
+    "name":"player",
+    "path":"folders/Objects/player.yy",
   },
   "parentObjectId":{
-    "name":"p_enemy",
-    "path":"objects/p_enemy/p_enemy.yy",
+    "name":"p_player",
+    "path":"objects/p_player/p_player.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_player_hands",
-    "path":"sprites/spr_player_hands/spr_player_hands.yy",
+    "name":"spr_player_body",
+    "path":"sprites/spr_player_body/spr_player_body.yy",
   },
   "spriteMaskId":null,
   "visible":true,

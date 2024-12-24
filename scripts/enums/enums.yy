@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"Vector2",
+  "%Name":"enums",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"Vector2",
+  "name":"enums",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

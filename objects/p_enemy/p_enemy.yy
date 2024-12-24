@@ -3,7 +3,6 @@
   "%Name":"p_enemy",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"p_enemy",
@@ -12,7 +11,10 @@
     "name":"parents",
     "path":"folders/Objects/parents.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"p_solid_parent",
+    "path":"objects/p_solid_parent/p_solid_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

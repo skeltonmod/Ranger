@@ -12,8 +12,6 @@ var gun_offset_y = 0;
 
 draw_sprite(spr_player_foot, 0, r_foot_x, r_foot_y);
 draw_sprite(spr_player_foot, 0, l_foot_x, l_foot_y);
-
-show_debug_message(createFrameFrmAngle(8, dir))
 switch(sprite_direction) {
     case 0: // Up
         hand_offset_x = 0;
